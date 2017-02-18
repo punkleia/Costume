@@ -1,2 +1,32 @@
 @import "bootstrap";
 
+.navbar.navbar-inverse {
+  font-family: "Segoe UI", Candara, sans-serif;
+  font-weight: 200;
+}
+
+h1, h2, h3, h4, h5, h6 .navbar {
+  margin: 0;
+}
+
+h1 {
+  font-family: "Segoe UI", Candara, sans-serif;
+  font-weight: 200;
+}
+
+.hero {
+  background: image_url('logo.png') no-repeat center center fixed;
+  height: 600px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.frosty {
+  background: rgba(0, 0, 0, 0.5);
+  color: #E8E8E8;
+  font-size: 30px;
+  padding: 50px;
+  
+ }
